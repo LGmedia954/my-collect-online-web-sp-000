@@ -1,4 +1,3 @@
 
-def my_collect(array)
-array = []
-while
+def my_collect(array = [])
+  while
